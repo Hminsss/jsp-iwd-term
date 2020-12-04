@@ -1,6 +1,6 @@
 <h1 align="center">Anipet Web Service 👋</h1>
 
----------------------------------------------
+
 ## ✨ Demo
 
 <p align="center">
@@ -9,7 +9,6 @@
    <img src="https://user-images.githubusercontent.com/60065661/101157855-203b6d00-366e-11eb-9bd7-dbf1e75c108b.gif">
 </p>
 
----------------------------------------------
 ## 🚀 Info
 - 과목 명 : 지능 웹 설계
 - 프로젝트 기간 : 2020.11.24~2020.12.04
@@ -21,3 +20,16 @@
 - 배포주소 : [우리 강아지를 찾아주세요 ! 애니펫](http://gksals4646.cafe24.com/)
 - 깃 허브 : [https://github.com/gksals4646/JSP_2020_TermProject](https://github.com/gksals4646/JSP_2020_TermProject)
 
+## 📝 JSP Code Used
+
+-스크립트 태그
+-디렉티브 태그
+-내장 객체
+-폼 태그
+-파일 업로드
+-유효성 검사
+-다국어 처리
+-예외 처리
+-세션
+-쿠키
+-mySQL 연동
