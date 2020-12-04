@@ -1,8 +1,5 @@
-# Anipet Web Service [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgksals4646%2FJSP_2020_TermProject&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+# Anipet Web Service [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgksals4646%2FJSP_2020_TermProject&count_bg=%23E58251&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 ---------------------------------------------
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgksals4646%2FJSP_2020_TermProject&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/60065661/101157746-fa15cd00-366d-11eb-8dd5-814eb4c8824a.gif) 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/60065661/101157855-203b6d00-366e-11eb-9bd7-dbf1e75c108b.gif)
 
