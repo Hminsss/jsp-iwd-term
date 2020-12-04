@@ -1,7 +1,11 @@
 <h1 align="center">Anipet Web Service 👋</h1>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgksals4646%2FJSP_2020_TermProject&count_bg=%23E58251&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+---------------------------------------------
+## ✨ Demo
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/60065661/101157721-ec604780-366d-11eb-8ea6-61a570cc9679.jpg">
+   <img src="https://user-images.githubusercontent.com/60065661/101157746-fa15cd00-366d-11eb-8dd5-814eb4c8824a.gif">
+   <img src="https://user-images.githubusercontent.com/60065661/101157855-203b6d00-366e-11eb-9bd7-dbf1e75c108b.gif">
+</p>
 ---------------------------------------------
 - 과목 명 : 지능 웹 설계
 
