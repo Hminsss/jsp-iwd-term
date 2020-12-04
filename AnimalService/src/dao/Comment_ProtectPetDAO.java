@@ -13,9 +13,9 @@ public class Comment_ProtectPetDAO {
 	
 	public Comment_ProtectPetDAO() {
 		try {
-			String dbURL = "jdbc:mysql://localhost/gksals4646";
-			String dbID = "gksals4646";
-			String dbPassword = "Kxkd13579!";
+			String dbURL = "jdbc:mysql://localhost/";
+			String dbID = "";
+			String dbPassword = "";
 			Class.forName("com.mysql.jdbc.Driver");
 			conn = DriverManager.getConnection(dbURL,dbID,dbPassword);
 		}catch(Exception e){
