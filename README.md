@@ -4,7 +4,6 @@
 ## ✨ Demo
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/60065661/101157721-ec604780-366d-11eb-8ea6-61a570cc9679.jpg">
    <img src="https://user-images.githubusercontent.com/60065661/101157746-fa15cd00-366d-11eb-8dd5-814eb4c8824a.gif">
    <img src="https://user-images.githubusercontent.com/60065661/101157855-203b6d00-366e-11eb-9bd7-dbf1e75c108b.gif">
 </p>
