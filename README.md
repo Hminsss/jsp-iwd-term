@@ -43,6 +43,7 @@
 <h3>2. 게시판 CRD 구현 </h3>
 
 ![image](https://user-images.githubusercontent.com/60065661/101426904-30d73600-3941-11eb-8e0c-c91ab46269fc.png)
+![image](https://user-images.githubusercontent.com/60065661/101427016-6f6cf080-3941-11eb-87c5-d2dc0ecc6ca5.png)
 
 <h3>3. 댓글 CRD 구현 </h3>
 
