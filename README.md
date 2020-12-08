@@ -38,7 +38,7 @@
 
 <h3>1. 로그인, 회원가입 구현 </h3>
 
-![image](https://user-images.githubusercontent.com/60065661/101426720-d8a03400-3940-11eb-9b74-fa396a33ab9e.png)
+![image](https://user-images.githubusercontent.com/60065661/101426720-d8a03400-3940-11eb-9b74-fa396a33ab9e.png) ![image](https://user-images.githubusercontent.com/60065661/101426791-01c0c480-3941-11eb-88dd-4490393c7fed.png)
 
 <h3>2. 게시판 CRD 구현 </h3>
 <h3>3. 댓글 CRD 구현 </h3>
